@@ -1,6 +1,3 @@
-# Deep_Learning_in_NLP
-NLP Deep Learning Projects
-
 # Simple RNN #
 IMDB Movie Review Sentiment Analysis
 IMDB Movie Review Sentiment Analysis
